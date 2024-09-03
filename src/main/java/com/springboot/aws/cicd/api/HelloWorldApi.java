@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloWorldApi {
     @GetMapping
     public String helloWord(){
-        return "Awesome ...Welcome to Spring Boot AWS with CI CD...!";
+        return "Om Namo Narayana";
     }
 }
